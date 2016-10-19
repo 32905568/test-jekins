@@ -3,9 +3,16 @@
 <body>
 <br/><br/>
 #haha('测试宏...')
-<br/><br/>
+<br/>asdjf;jsad;kjfkasdf<br/>asdjf;kajslkdfs
 #parse("common/test_parse.vm")
-<br/><br/>
+<br/>
+adsfjaksdj;fkasjdkflasdf
+<br/>
+asdfj;askjd;fksa;df
 拦截器调用方法后给的时间参数: ${newdate}
+阿斯蒂芬；ask的積分；啊開始覺得；faksdf
+kasj;dfkas;dfj;asdjf
+aksdjf;kadsjfk;asdkf;askjf;kasdjf;asjdf
+asdfasdfasdfasd
 </body>
 </html>
